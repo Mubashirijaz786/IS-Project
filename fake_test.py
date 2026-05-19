@@ -1,1 +1,2 @@
-AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE"
+# Testing GitHub Actions with a real-looking token
+GITHUB_API_TOKEN = "ghp_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890"
