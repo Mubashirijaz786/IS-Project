@@ -1,2 +1,2 @@
-# Testing GitHub Actions with a real-looking token
-GITHUB_API_TOKEN = "ghp_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890"
+# Testing Server-Side Prevention with an RSA Key
+my_key = "-----BEGIN RSA PRIVATE KEY-----\nMIICXQIBAAKBgQCqGkUk"
